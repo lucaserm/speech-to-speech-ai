@@ -9,7 +9,7 @@ export const env = {
   COPILOT_MODEL: "gpt-5" as CopilotModel,
 
   GEMINI_MODEL: "gemma-3-27b-it" as GeminiModels,
-  GEMINI_API_KEY: "AIzaSyDUO6WMq3Fqp-cfyqj8LMElVXTv6mOByuQ",
+  GEMINI_API_KEY: "",
 
   LLM_MODEL: "gemini" as "copilot" | "ollama" | "gemini",
 
